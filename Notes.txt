@@ -1,0 +1,1 @@
+plot_time_series.py是用于GAMMA软件的v2_disp命令输出的点时序文件进行绘制时序图。
