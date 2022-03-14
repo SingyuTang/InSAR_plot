@@ -1,2 +1,3 @@
 # InSAR_plot
 bperp_plot.py：本程序用于绘制时空基线图，包括ps和sbas，默认为绘制bperp_file中的所有基线，无阈值限制。
+plot_time_series.py是用于GAMMA软件的v2_disp命令输出的点时序文件进行绘制时序图。
